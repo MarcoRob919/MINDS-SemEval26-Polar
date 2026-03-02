@@ -24,5 +24,5 @@ This repository contains the code and notebooks for the SemEval-2026 Task 9: "De
 ```
 
 The file ‘XLM-RoBERTa_Base’ contains the training and evaluation of the model for both tasks. <br>
-The file ‘MarianTranslate’ is used both for Architecture-2 and Architecture-3. <br>
+The file ‘MarianTranslate’ is used for Architecture-2 and Architecture-3. <br>
 The file ‘LLaMa_q4bit’ contains the training and evaluation of the model for both tasks.
